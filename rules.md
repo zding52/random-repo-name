@@ -13,7 +13,7 @@ Weekly meeting on Thursday: talk about how to assign tasks.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-Since we will meet with each other each Thursday, so we believe nothing will be missed.
+Since we will meet with each other every Thursday, so we believe nothing will be missed.
 
 ## How will will communicate difficulties with a task assigned to us
 
