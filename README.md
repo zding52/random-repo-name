@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
+# xteam-exercise-2: https://github.com/zding52/random-repo-name
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
@@ -7,13 +7,14 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
-   * When did you complete this exercise? 
+       * GitHub username 1: zding52      name 1: Zhiyue Ding
+       * GitHub username 2: zlyu8        name 2: Zhanhe Lyu 
+       * GitHub username 3: jikaizhang   name 3: Jikai Zhang
+       * GitHub username 4: kcorbett2    name 4: Kevin Corbett
+   * When did you complete this exercise?
+       Oct 18th, 2018
    * How long did it take your team to complete this exercise? 
+       1.5 h
 
 ## Table of Contents
 
