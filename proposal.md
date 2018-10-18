@@ -43,8 +43,11 @@ Find your mutual FRIENDS!!!
 (eg.) 1.Bob 2.Sponge Bob 3.Gary (You have 3 mutual friends)
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
 Input the PersonA:(user input string (eg. "Zhiyue"))
+
 Input the PersonB:(user input string (eg. "Russell"))
+
 Input the ...(input could be more than 2 people):(user input string (eg. "Jikai"))
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
