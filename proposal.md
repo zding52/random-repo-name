@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 22 Project Proposal Find your mutual FRIENDS!!!
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,27 +35,30 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Find your mutual FRIENDS!!!
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+(eg.) 1.Bob 2.Sponge Bob 3.Gary (You have 3 mutual friends)
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
-
+Input the PersonA:(user input string (eg. "Zhiyue"))
+Input the PersonB:(user input string (eg. "Russell"))
+Input the ...(input could be more than 2 people):(user input string (eg. "Jikai"))
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+simple graphic user interface: just enter the names, and it will print out our mutual friends' names.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+People.java
+Main.java 
 
 Name each interface or class and briefly describe its function or purpose.
-
-
+Use GUI as our interface
+Main.java is where the program get input and output 
+People is a type that stores information of each person.
 ## Edit and Submit this file and any figures referenced by this document.
 
