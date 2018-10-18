@@ -22,9 +22,9 @@ If member could not finish the method assigned within 2 days, he or she should t
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+Remind each other in the text group and update progress every three days and two days before deadline.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-
+Let at least two people look at your code and agree before push to git.
 
