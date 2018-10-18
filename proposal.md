@@ -29,8 +29,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+This is a program that helps people search their mutual friends by just enter names of themselves and their friends, and
+this program would list all their mutual friends' names and number of mutual friends they have. 
 
 ## Questions to answer for Exercise #2
 
@@ -53,12 +53,12 @@ simple graphic user interface: just enter the names, and it will print out our m
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-People.java
+**People.java:** has name, friends' names
 Main.java 
-
+comprehensive testing of People unit
 Name each interface or class and briefly describe its function or purpose.
-Use GUI as our interface
-Main.java is where the program get input and output 
-People is a type that stores information of each person.
+Use GUI as our interface (See figure 1)
+Main.java is where the program get input and output
+People is a type that stores information of each person.**
 ## Edit and Submit this file and any figures referenced by this document.
 
