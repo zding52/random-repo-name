@@ -57,11 +57,18 @@ simple graphic user interface: just enter the names, and it will print out our m
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 **People.java:** has name, friends' names
+
 Main.java 
+
 comprehensive testing of People unit
+
 Name each interface or class and briefly describe its function or purpose.
+
 Use GUI as our interface (See figure 1)
+
 Main.java is where the program get input and output
+
 People is a type that stores information of each person.**
+
 ## Edit and Submit this file and any figures referenced by this document.
 
