@@ -13,11 +13,12 @@ Weekly meeting on Thursday: talk about how to assign tasks.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-Since we will meet with each other every Thursday, so we believe nothing will be missed.
+Meet with each other every Thursday, or at least meet 2 days before due days.
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+Throgh text. Text in group when they are done with a method. 
+If member could not finish the method assigned within 2 days, he or she should text within group.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
