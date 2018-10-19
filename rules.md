@@ -9,10 +9,12 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
+
 Weekly meeting on Thursday: talk about how to assign tasks.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
+Text in our group after completing an assigned method.
 Meet with each other every Thursday, or at least meet 2 days before due days.
 
 ## How will will communicate difficulties with a task assigned to us
@@ -27,4 +29,5 @@ Remind each other in the text group and update progress every three days and two
 ## Add any other rules that your team establishes to help each other work effectively together
 
 Let at least two people look at your code and agree before push to git.
+Get help from a group member if your having difficulty implementing your code.
 
